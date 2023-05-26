@@ -2,6 +2,12 @@
 
 ### Used two ways:
 
-- First only with standard Golang package.
+```
+First only with standard Golang package:
+- files: api and client
+```
 
-- And the second one with the MUX package.
+```
+And the second one with the MUX package:
+ - files: client and out
+```
